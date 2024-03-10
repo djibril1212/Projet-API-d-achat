@@ -6,7 +6,7 @@ Ce projet est une API simple construite avec Node.js et Express. Il comprend deu
 
 ### Service de comptes
 
-- **Inscription** : Les utilisateurs peuvent s'inscrire en fournissant leur nom et leur solde.
+- **Inscription** : Les  utilisateurs peuvent s'inscrire en fournissant leur nom et leur solde.
 - **Récupération des informations du compte** : Permet de récupérer les informations d'un compte utilisateur, y compris le solde et l'historique des achats.
 - **Mise à jour du compte** : Met à jour le solde du compte d'un utilisateur après un achat.
 - **Suppression des données utilisateur** : Permet à un utilisateur de supprimer toutes ses informations.
